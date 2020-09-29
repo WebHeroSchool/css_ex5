@@ -1,0 +1,58 @@
+header {
+    font-family: 'Caveat', cursive;
+}
+
+.header {
+    width: 700px;
+}
+
+.header__title {
+    text-align: center;
+    background-color: #A3FFC2;
+    padding: 30px;
+    font-family: 'Peddana', serif;
+}
+
+.header__btn {
+    height: 50px;
+    width: 100px;
+    margin: 0 50%;
+    position: relative;
+    left: -50px;
+
+}
+
+.header__description {
+    text-align: center;
+    font-size: 30px;
+}
+
+section {
+    font-family: 'Caveat', cursive;
+}
+
+.section__title {
+    font-size: 30px;
+}
+
+.section__nav {
+    font-size: 20px;
+}
+
+.section__btn {
+    height: 30px;
+    width: 80px;
+}
+
+footer {
+    font-family: 'Caveat', cursive;
+}
+
+.footer__title {
+    font-size: 20px;
+}
+
+.footer__btn {
+    height: 30px;
+    width: 80px;
+}
