@@ -1,5 +1,5 @@
 header {
-    font-family: 'Caveat', cursive;
+    font-family: 'Architects Daughter', cursive;
 }
 
 .header {
@@ -10,7 +10,7 @@ header {
     text-align: center;
     background-color: #A3FFC2;
     padding: 30px;
-    font-family: 'Peddana', serif;
+    font-family: 'Bangers', cursive;
 }
 
 .header__btn {
@@ -28,7 +28,7 @@ header {
 }
 
 section {
-    font-family: 'Caveat', cursive;
+    font-family: 'Architects Daughter', cursive;
 }
 
 .section__title {
@@ -45,7 +45,7 @@ section {
 }
 
 footer {
-    font-family: 'Caveat', cursive;
+    font-family: 'Architects Daughter', cursive;
 }
 
 .footer__title {
